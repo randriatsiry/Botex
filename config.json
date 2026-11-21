@@ -1,0 +1,17 @@
+{
+  "isEnabled": false,
+  "riskPerTrade": 1,
+  "maxDailyTrades": 3,
+  "emaFast": 50,
+  "emaSlow": 200,
+  "rsiPeriod": 14,
+  "rsiOverbought": 70,
+  "rsiOversold": 30,
+  "strategies": {
+    "trendFollowing": true,
+    "momentumBreakout": false,
+    "rsiConfluence": true
+  },
+  "balance": 10000,
+  "isDemo": true
+}

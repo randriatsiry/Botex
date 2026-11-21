@@ -1,0 +1,6 @@
+{
+  "name": "Forex Synthetic Trading Bot Dashboard",
+  "description": "Tableau de bord et API distribuée pour Bot de Trading Forex et Index Synthétiques (Termux + Render). Comprend un simulateur de stratégie, un testeur historique complet (backtest) et le script Python autonome.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

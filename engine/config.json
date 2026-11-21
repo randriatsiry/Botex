@@ -1,0 +1,10 @@
+{
+  "API_URL": "http://localhost:3000",
+  "API_TOKEN": "secure_token_abc123",
+  "ASSET": "Volatility 75 Index",
+  "RISK_PER_TRADE_PCT": 1.0,
+  "RISK_REWARD_RATIO": 2.0,
+  "MAX_DAILY_LOSSES": 3,
+  "DEMO_MODE": true,
+  "DERIV_TOKEN": "your_deriv_api_token_here"
+}
